@@ -13,8 +13,8 @@
         </div>
         <ul class="list-group list-group-flush">
             <li class="list-group-item"><strong>NPM:</strong> <?= $tangkap_npm; ?></li>
-            <li class="list-group-item"><strong>Nama:</strong> <?php echo $tangkap_nama; ?></li>
-            <li class="list-group-item"><strong>UKM:</strong> <?php echo $tangkap_ukm; ?></li>
+            <li class="list-group-item"><strong>Nama:</strong> <?= $tangkap_nama; ?></li>
+            <li class="list-group-item"><strong>UKM:</strong> <?= $tangkap_ukm; ?></li>
         </ul>
     </div>
 </div>
